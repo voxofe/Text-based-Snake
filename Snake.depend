@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1590691076 source:c:\users\voxof\desktop\project c++\snake\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<list>
+	<conio.h>
+	<Windows.h>
+	<fstream>
+
+1590851546 source:c:\users\voxof\downloads\project sxolhs\project c++\snake\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<list>
+	<conio.h>
+	<Windows.h>
+	<fstream>
+
