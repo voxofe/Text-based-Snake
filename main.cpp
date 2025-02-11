@@ -285,7 +285,7 @@ int main()
                     }
                 }
             }
-            //Sleep(100);///Reduce Speed
+            Sleep(100);///Reduce Speed
             draw();
 
             /*///Manual Movement
@@ -306,5 +306,4 @@ int main()
         }
         Sleep(1000);///Wait a bit before restarting
     }while(!exitGame);
-
 }
