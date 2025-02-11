@@ -10,6 +10,6 @@ Uses a linked list for snake tracking.
 
 📌 How to Run:
 
-Compile with g++ snake.cpp -o snake.exe
-Run snake.exe in the terminal
-Use WASD to move, E to exit
+1. Compile with g++ snake.cpp -o snake.exe
+2. Run snake.exe in the terminal
+3. Use WASD to move, E to exit
