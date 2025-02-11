@@ -1,3 +1,5 @@
 snake.exe
 bin\
 obj\
+*.exe
+*.o
